@@ -1,0 +1,59 @@
+@import '~antd/dist/antd.css';
+
+
+.webbody{
+    position: absolute;
+    left: 10%;
+    width: 80%;
+    height: 90%;
+    margin-top: 50px;
+    background-image: url('../../public/22.jpg');
+    background-size: 700px,600px;
+}
+.Login{ 
+    position: absolute;
+    left: 50%;
+    background-color: rgba(250, 248, 248, 0.65);
+    position: absolute; 
+    margin-top: 100px;
+    margin-left: -150px;
+    width: 300px;
+    height: 300px;
+  
+}
+.ant-form-item-control-input-content {
+    flex: auto;
+    max-width: 180px;
+}
+.headline{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 2em;
+}
+.account{
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 35px;
+}
+
+.password{
+   text-align: center;
+    margin-top: 20px;
+    margin-left: 35px;
+}
+
+.accinput{
+    display: inline-block;
+    width: 180px;
+}
+
+.pwdinput{
+    /* display: inline-block; */
+    width: 180px;
+}
+
+.button{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+ 

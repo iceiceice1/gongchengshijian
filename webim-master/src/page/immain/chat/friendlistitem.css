@@ -1,0 +1,15 @@
+.friendlistItem{
+    display: inline-block;
+   margin-top: 10px;
+    height: 60px;
+    
+}
+span{
+    vertical-align: middle
+}
+.friendchatMsg{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    white-space: nowrap;
+    color: rgba(0,0,0,0.5);
+}

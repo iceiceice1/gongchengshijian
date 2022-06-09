@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.btncontainer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.delbtn{
+    margin-left: 10px; 
+}
+
+.msgbtn{
+    margin-right: 10px;
+}

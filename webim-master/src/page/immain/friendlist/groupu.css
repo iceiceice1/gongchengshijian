@@ -1,0 +1,11 @@
+.friendlist{
+    /* display: inline-block; */
+    /* float: left; */
+    width: 250px;
+    margin-left: 270px;
+}
+
+.searchInput{
+    width: 300px;
+    margin-top: 5px;
+}

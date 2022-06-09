@@ -1,0 +1,14 @@
+@import '~antd/dist/antd.css';
+
+.chatPerson{
+    background-color: rgba(0, 0, 0, 0.3);
+    width: 200px;
+    text-align: left;
+    padding-left: 15px;
+    height: 650px;
+    display:inline-block;
+    float: left;
+}
+.chatLog{
+    display: inline-block;
+}

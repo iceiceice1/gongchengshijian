@@ -1,0 +1,41 @@
+@import '~antd/dist/antd.css';
+
+.main{
+    width: 900px;
+    position: absolute;
+    left: 50%;
+    margin-left: -450px;
+    top:50px;
+    height: 700px;
+
+}
+.mainlist{
+    float: left;
+    width: 50px;
+    height: 700px;
+    background-color: aqua;
+}
+.mainlist li{
+    text-align: center;
+    list-style: none;
+    margin-left: -40px;
+    margin-top: 20px;
+}
+.header{
+    height: 50px;
+}
+.mainbody{
+    text-align: center;
+    margin-left: 50px;
+    height:650px;
+    background-color: rgba(0,0,0, 0.05);
+}
+.accounthi{
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+.nickName{
+    display: inline-block;
+}

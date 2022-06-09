@@ -1,0 +1,17 @@
+
+
+
+.item{
+    width: 300px;
+    /* margin-left: 30px; */
+    /* padding-left: 30px;
+     */
+    text-align: left;
+    margin-left: 170px;
+}
+
+.btn{
+    /* justify-content: flex-end;
+    text-align: right; */
+    float: right
+}
